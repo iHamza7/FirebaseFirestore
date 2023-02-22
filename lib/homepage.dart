@@ -33,7 +33,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("firebase crud"),
+        title: const Text("firebase crud latest"),
       ),
       body: SafeArea(
         child: Padding(
