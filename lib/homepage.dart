@@ -80,7 +80,7 @@ class _HomePageState extends State<HomePage> {
                   controller: _finderAddress,
                   decoration: const InputDecoration(
                     labelText: "Enter Address",
-                    hintText: "Your Address",
+                    hintText: "Enter Address",
                     fillColor: Colors.white,
                     focusedBorder: OutlineInputBorder(
                       borderSide: BorderSide(
