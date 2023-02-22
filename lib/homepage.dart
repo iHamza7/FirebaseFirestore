@@ -97,7 +97,7 @@ class _HomePageState extends State<HomePage> {
                   controller: _finderPhone,
                   decoration: const InputDecoration(
                     labelText: "Enter Phone",
-                    hintText: "Your Phone",
+                    hintText: "Enter Phone",
                     fillColor: Colors.white,
                     focusedBorder: OutlineInputBorder(
                       borderSide: BorderSide(
