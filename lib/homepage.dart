@@ -134,7 +134,7 @@ class _HomePageState extends State<HomePage> {
                         backgroundColor: Colors.blue,
                       ),
                       onPressed: () {},
-                      child: const Text("Read the form"),
+                      child: const Text("Read"),
                     ),
                   ],
                 ),
