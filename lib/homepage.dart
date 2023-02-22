@@ -46,7 +46,7 @@ class _HomePageState extends State<HomePage> {
                   controller: _finderName,
                   decoration: const InputDecoration(
                     labelText: "Enter Name",
-                    hintText: "Your Name",
+                    hintText: "Enter Name",
                     fillColor: Colors.white,
                     focusedBorder: OutlineInputBorder(
                       borderSide: BorderSide(
