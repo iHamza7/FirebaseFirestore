@@ -63,7 +63,7 @@ class _HomePageState extends State<HomePage> {
                   controller: _finderEmail,
                   decoration: const InputDecoration(
                     labelText: "Enter Email",
-                    hintText: "Your Email",
+                    hintText: "Enter Email",
                     fillColor: Colors.white,
                     focusedBorder: OutlineInputBorder(
                       borderSide: BorderSide(
